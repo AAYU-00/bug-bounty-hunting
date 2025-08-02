@@ -1,0 +1,48 @@
+Whenever strating a bg bounty hunting Journwy you may have a question when i will have an money in my bank accounts $$$ & 
+but now in this era you have to become a person who uses is mind intead of scanner tools .
+ |You must have a 3 things before you start your journey here the things 
+  
+  i>Constitency -You always need to have learn and prastice more than other people rather than always watching a tutorial video
+   you have to take action daily with set of goal behalf of daily , weekly, monthly , half yealr, and yearly .
+
+  ii> Curosity - you always think diffrenlt from other i mean whenever you are trying putting apyload on the inobx in the page you always need to say that what if i do that way instead of this , 
+  what if i change the numbers , what if i change the parameters.
+  
+  iii> Committment - Before you start your journey  in this field you alwys have to commit that i will learn linux commnd line skill befroe tsi week  like tsi always make a commit to your self , 
+  it helps to make a daily tracking and makes a disciplined men/women in the journey.  |
+
+
+  now the things you have to do the important thisng is only a self taught hackers are great with somem mentors also 
+  
+  "You just to take actio, read blog,play on the real ctf ground and vdp program after all prasctice without it no one can become a hacker  "
+
+
+Now lets get started to the 6 things only to become great bug bounty hunter with 3C (Constitency,Curosity,Committment)
+
+1.   Linux Fundamental 
+                       -So you need to learn this because all the hacking`tools are made in the linux environment so thats why all the beginner must under stand to learn the linux command skill 
+                       it helps to understand all the function on the cli(coomand  line injection ) so thre you have to start with free reasources all the things 
+                       like ubuntu , kali linux, arch linux but (ubuntu and kali linux are beginner friendly tools) so start out from here 
+                       you can get the paltform where the linux basics are taught 
+
+               1- LINUX FUNDAMENTAL (ALL THE EXPERT START AS A beginner) ALWAYS REMEMBER THAT IN YOUR MIND
+
+        top platfrom where you can learn the fundamental skill from the gaining knolwdge 
+
+        1- Linux.org
+        2- banditoverwire.com 
+        etc are the one that i have been using in the begining faces  i use chat gp ron my favour because no one was helping me on the my starting days so dont miss out from me here you can learn a more from the people aorund the world
+
+      
+
+      2- NETWORKING FUNDAMENTAL
+
+          YOU HAVE TO LEARN HOE THE NETWORKS WORKS IN THE INTERNAT 
+          LEARN ABOUT THE IP PROTOCOLABOUT HOW THE DATA ARE SEND OVER THE INTERNET LIKE 
+          HOW THE WEB SITE ACTUALLY WORKS IN THE INTERNET THAT WE USE BASICS KNOWLDEG OF HTTPS,FPS,LDP,SMTP,HTTP 
+          SO BASICALLY YOU HAVE TO LEARN ALL THIS SYTEM WORKINGS CONCEPT ONCE YOU UNDERSTAND THIS THINGS WHEN YOU ARE ON THE FIELD OF BUG BOUNTY HUNTING OVER THE INTERNET AROUND THE WORLD 
+          SO MAKE SURE YOU HAVE GOT THE CLUES AND FLOWS OF LEARNING MAKE IT INTO THE ACTION
+            
+
+            THE PLATFORM FOR LEARNING NETWORKING ARE AVAILABLE ON THE SOCIAL MEDIA PLATFORM LIKE YOUTUBE , WEBSITE, BLOG , TRAINING PLATFORM 
+            fOLLOW  THE YOUTUBE CHANNEL SLIEK NETWORK CHUCK, DAVID BOMBALL , AND OTHER CREATORS THAT RE EXPERT IN THIER FIELD 
